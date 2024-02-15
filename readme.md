@@ -10,7 +10,7 @@ $npm install express
 
 and create the file ,name it as index.js
 
-COpy and paste the below code into index.js
+COpy and paste the below code into index.js 
 
 const express = require('express')
 const app = express()
